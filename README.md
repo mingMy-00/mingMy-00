@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=FFFF66&height=150&section=header"/> 
-
-<br/>
 <h2>Introduce</h2>
 <pre>
   🪪 안녕하세요 Back-end 개발자 김민제입니다.
