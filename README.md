@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/aws s3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/jsp-004027?style=for-the-badge&logo=jameson&logoColor=white">
   <img src="https://img.shields.io/badge/socket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
   <img src="https://img.shields.io/badge/mybatis-0C0C0E?style=for-the-badge&logo=bookmyshow&logoColor=white">
