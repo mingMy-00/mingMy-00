@@ -1,8 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=FFFF66&height=150&section=header"/> 
 
+<br/>
+<h2>Introduce</h2>
+<pre>
+  🪪 안녕하세요 Back-end 개발자 김민제입니다.
+</pre>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingMy-00)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
+<h2>자주쓰는 Language</h2>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingMy-00)](https://github.com/anuraghazra/github-readme-stats) 
+  
+<br/>
 <h2>사용기술</h2>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -23,6 +33,7 @@
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white">
 </div>
 
+<br/>
 <h2>개발환경</h2>
 <div align=center> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
@@ -32,5 +43,5 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CCFFFF&height=150&section=footer" />
