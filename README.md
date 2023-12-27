@@ -7,8 +7,10 @@
 
 <h2>자주쓰는 Language</h2>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingMy-00)](https://github.com/anuraghazra/github-readme-stats) 
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingMy-00" alt="Top Langs">
+</p>
+
 <br/>
 <h2>사용기술</h2>
 <div align=center> 
