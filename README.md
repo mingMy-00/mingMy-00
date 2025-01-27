@@ -18,6 +18,7 @@
 ### 🛠️ Tech Stack | 기술 스택
 #### **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6E6E6E?style=flat-square&logo=hibernate&logoColor=white)
 
