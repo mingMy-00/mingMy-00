@@ -1,41 +1,41 @@
-<h2>Introduce</h2>
-<pre>
-1년차 백엔드 개발자입니다.
-</pre>
-
-<br/>
-
-<h2>자주쓰는 Language</h2>
-
+<h1 align="center">👋 Hi, I'm MinJe!</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingMy-00" alt="Top Langs">
+  <b>🚀 백엔드 개발자 | Java & Spring 
 </p>
 
-<br/>
-<h2>사용기술</h2>
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/jsp-004027?style=for-the-badge&logo=jameson&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mybatis-0C0C0E?style=for-the-badge&logo=bookmyshow&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/aws s3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/socket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white">
+---
+
+### 🛠️ Tech Stack | 기술 스택
+#### **Backend**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6E6E6E?style=flat-square&logo=hibernate&logoColor=white)
+
+#### **Frontend & DevOps**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+### ✨ About Me
+- 🏢 **현재**: e-commerce 회사에서 백엔드 개발
+- ✍ **기술 블로그**: [📖 My Tech Blog]([https://programming](https://blog.naver.com/programming_my00))
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mingMy-00&show_icons=true&theme=radical&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingMy-00&theme=radical" height="160px"/>
 </div>
 
-<br/>
-<h2>개발환경</h2>
-<div align=center> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</div>
+---
 
+### 🌱 What I'm Currently Learning
+- ✅ 
+
+---
+
+### 🔗 Contact Me
+[![Email](https://img.shields.io/badge/Email-mingdidideng@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mingdidideng@gmail.com)
