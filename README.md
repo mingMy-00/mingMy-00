@@ -7,8 +7,6 @@
 </h1>
 
 
-
-
 <p align="center">
   <b>🚀 Back-end Developer | Java & Spring 
 </p>
@@ -44,7 +42,7 @@
 ---
 
 ### 🌱 What I'm Currently Learning
-- ✅ 
+- ✅ `CS` `Redis` `Java`
 
 ---
 
