@@ -1,5 +1,6 @@
 <h2>Introduce</h2>
 <pre>
+1년차 백엔드 개발자입니다.
 </pre>
 
 <br/>
