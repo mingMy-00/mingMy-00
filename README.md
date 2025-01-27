@@ -39,5 +39,3 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCFFFF&height=150&section=footer" />
