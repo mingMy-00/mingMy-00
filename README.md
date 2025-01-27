@@ -1,6 +1,12 @@
-<h1 align="center">👋 Hi, I'm MinJe!</h1>
 <p align="center">
-  <b>🚀 백엔드 개발자 | Java & Spring 
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300px"/>
+</p>
+<h1 align="center"> 👋 Hi, I'm a 1st-year Backend Developer 🚀
+</h1>
+
+
+<p align="center">
+  <b>🚀 Back-end Developer | Java & Spring 
 </p>
 
 ---
@@ -19,7 +25,7 @@
 ---
 
 ### ✨ About Me
-- 🏢 **현재**: e-commerce 회사에서 백엔드 개발
+- 🏢 e-commerce Front & Back Developer 
 - ✍ **기술 블로그**: [📖 My Tech Blog]([https://programming](https://blog.naver.com/programming_my00))
 
 ---
