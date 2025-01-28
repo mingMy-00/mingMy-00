@@ -28,8 +28,8 @@
 ---
 
 ### ✨ About Me
-- 🏢 e-commerce Front & Back Developer 
-- ✍ **기술 블로그**: [📖 My Tech Blog]([https://programming](https://blog.naver.com/programming_my00))
+- 🏢 e-commerce Back-end Developer 
+- ✍ **기술 블로그**: [📖 My Tech Blog]([[https://programming](https://blog.naver.com/programming_my00)](https://blog.naver.com/programming_my00))
 
 ---
 
