@@ -42,7 +42,7 @@
 ---
 
 ### 🌱 What I'm Currently Learning
-- ✅ `CS` `Redis` `Java`
+- ✅ `CS` `Redis` `Java` `Spring`
 
 ---
 
