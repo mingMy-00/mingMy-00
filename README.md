@@ -33,18 +33,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingMy-00&show_icons=true&theme=radical&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingMy-00&theme=radical" height="160px"/>
-</div>
-
----
-
-### 🌱 What I'm Currently Learning
-- ✅ `Redis` `Java` `Spring` `CS`
-
----
-
 ### 🔗 Contact Me
-[![Email](https://img.shields.io/badge/Email-mingdidideng@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mingdidideng@gmail.com)
+[![Email](https://img.shields.io/badge/Email-programmingde00@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](programmingde00@gmail.com)
