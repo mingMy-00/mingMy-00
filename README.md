@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack | 기술 스택
+### Tech Stack | 기술 스택
 #### **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -27,11 +27,11 @@
 
 ---
 
-### ✨ About Me
+### About Me
 - 🏢 e-commerce Back-end Developer 
 - ✍ **기술 블로그**: [📖 My Tech Blog](https://blog.naver.com/programming_my00)
 
 ---
 
-### 🔗 Contact Me
+### Contact Me
 [![Email](https://img.shields.io/badge/Email-programmingde00@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](programmingde00@gmail.com)
