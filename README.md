@@ -28,8 +28,9 @@
 ---
 
 ### About Me
-- 🏢 e-commerce Back-end Developer 
-- ✍ **기술 블로그**: [📖 My Tech Blog](https://blog.naver.com/programming_my00)
+- e-commerce Back-end Developer 
+- **기술 블로그**: [Naver Blog](https://blog.naver.com/programming_my00)
+- **기술 블로그**: [Tistory Blog](https://programmingmy-00.tistory.com/)
 
 ---
 
