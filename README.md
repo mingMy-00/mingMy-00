@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <b>🚀 Back-end Developer | Java & Spring 
+  <b> Back-end Developer | Java & Spring 
 </p>
 
 ---
